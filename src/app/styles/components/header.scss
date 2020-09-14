@@ -1,0 +1,8 @@
+.header {
+
+  background-color: black;
+
+  &__container {
+    @extend .l-container;
+  }
+}

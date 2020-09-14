@@ -1,0 +1,21 @@
+{% if not header %}
+    {% set header = {
+        logo :
+        {
+            src: '../images/logo.png',
+            alt: 'patron mafia club',
+            text: 'Оригинальная идея для праздника',
+        },
+    } %}
+{% endif %}
+<header class="header">
+    <div class="header__container">
+        <div class="header__logo">
+            <div class="header__logo-picture">
+                <img src="{{ header.logo.src }}" alt="{{ header.logo.alt }}" class="header__logo-img">
+            </div>
+            <p class="header__logo-text">{{ header.logo.text }}</p>
+        </div>
+
+    </div>
+</header>
