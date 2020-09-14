@@ -1,37 +1,28 @@
 {
-  "environment" : "development",
-
-  "viewsDirectory" : "templates",
-  "stylesDirectory" : "styles",
-  "javascriptDirectory" : "js",
-  "pngSpriteDirectory" : "images/png_sprite",
-  "imagesDirectory" : "images",
-  "fontsDirectory" : "fonts",
-  "svgSpriteDirectory" : "images/svg_sprite",
-  "svgInlineSpriteDirectory" : "images/svg_sprite_inline",
-  "criticalDirectory" : "critical",
-
-  "sourcePath" : "src",
-  "destinationPath" : "public",
-  "temporaryPath" : ".tmp",
-
-  "template_engine" : "twig",
-
-  "javascript_libraries" : [
-    "./node_modules/jquery/dist/jquery.min.js",
-    "./node_modules/slick-carousel/slick/slick.min.js",
-    "./node_modules/@fullcalendar/core/main.min.js",
-    "./node_modules/@fullcalendar/daygrid/main.min.js",
-    "./node_modules/@fullcalendar/timegrid/main.min.js",
-    "./node_modules/@fullcalendar/interaction/main.min.js",
-    "./node_modules/@fullcalendar/list/main.min.js"
-  ],
-
-  "use_babel" : true,
-  "minify_images" : true,
-  "css_source_maps" : false,
-  "js_source_maps" : true,
-  "concatenate_scripts" : true,
-  "critical_css" : false,
-  "inline_css" : false
+  "environment": "development",
+  "viewsDirectory": "views",
+  "stylesDirectory": "styles",
+  "javascriptDirectory": "js",
+  "pngSpriteDirectory": "images/png_sprite",
+  "imagesDirectory": "images",
+  "fontsDirectory": "fonts",
+  "svgSpriteDirectory": "images/svg_sprite",
+  "svgInlineSpriteDirectory": "images/svg_sprite_inline",
+  "iconicFontDirectory": "images/iconic",
+  "criticalDirectory": "critical",
+  "sourcePath": "src/app",
+  "destinationPath": "public",
+  "temporaryPath": "src/.tmp",
+  "template_engine": "twig",
+  "javascript_libraries": [],
+  "use_babel": true,
+  "minify_images": true,
+  "css_source_maps": false,
+  "js_source_maps": false,
+  "concatenate_scripts": true,
+  "obfuscate" : false,
+  "obfuscate_options": {},
+  "critical_css": false,
+  "inline_css": false,
+  "js_custom_build_order": false
 }

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00a2cedc-0542-4be3-bcdb-04d6818f49ae" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/transportation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp/js/libraries.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp/js/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulp/export.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulp/export.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulp/src/errorHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulp/src/errorHandler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulp/src/tasks/browser_sync.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulp/src/tasks/browser_sync.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulp/src/tasks/clean.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulp/src/tasks/clean.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulp/src/tasks/copy.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulp/src/tasks/copy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulp/src/tasks/critical-css.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulp/src/tasks/critical-css.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulp/src/tasks/images-minify.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulp/src/tasks/images-minify.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulp/src/tasks/png-sprite.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulp/src/tasks/png-sprite.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulp/src/tasks/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulp/src/tasks/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulp/src/tasks/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulp/src/tasks/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulp/src/tasks/svg.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulp/src/tasks/svg.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulp/src/tasks/templates.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulp/src/tasks/templates.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulp/src/tasks/watch.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulp/src/tasks/watch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/all.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/all.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/styles/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/styles/style.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/png_sprite/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/svg_sprite_inline/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/libraries.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/libs/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/__mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/__utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/__variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/base/fonts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/base/layout.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/base/reset.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/components/component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/components/footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/components/header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/components/heading.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/elements/wysiwyg.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/libraries/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/libraries/slick.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/mixins/base.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/mixins/breakpoints.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/mixins/functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/mixins/png-sprite.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/mixins/svg-sprite.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/mixins/typography.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/sections/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/sections/advantages.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/sections/article.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/sections/banner.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/sections/instagram.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/sections/magazine.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/sections/offers.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/sections/product.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/sections/reviews.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/sections/section.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/sprites/png-sprite.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/sprites/svg-sprite-inline.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/sprites/svg-sprite.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/templates/template.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/utilities/display.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/utilities/flex.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/utilities/sizing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/utilities/spacing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/utilities/text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/utilities/visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/base.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/index.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/sections/section.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/svg/arrow-filters.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/svg/sprite_inline.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/twigSettings.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hUmewTOBkkFiwuMnDhXXeSYIgG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00a2cedc-0542-4be3-bcdb-04d6818f49ae" name="Default Changelist" comment="" />
+      <created>1600074143448</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600074143448</updated>
+      <workItem from="1600074144518" duration="1010000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

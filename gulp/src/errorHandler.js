@@ -1,5 +1,5 @@
 module.exports = () => {
-  blinker.core.errorHandler = {
+  core.errorHandler = {
     initialize: function () {
       this.overrideBasicConsole();
     },
@@ -7,12 +7,12 @@ module.exports = () => {
     overrideBasicConsole: function () {
       let error = console.error;
       console.error = function (message) {
-        error(`${blinker.console.colors.foreground_red}Error: ${blinker.console.colors.reset}` + message);
+        error(`${core.console.colors.foreground_red}Error: ${core.console.colors.reset}` + message);
       }
     }
   };
 
-  blinker.console = {
+  core.console = {
     colors: {
       reset: "\x1b[0m",
       bright: "\x1b[1m",
