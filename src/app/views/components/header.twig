@@ -2,20 +2,66 @@
     {% set header = {
         logo :
         {
-            src: '../images/logo.png',
+            src: 'images/logo.png',
             alt: 'patron mafia club',
-            text: 'Оригинальная идея для праздника',
+            text: 'Оригинальная идея для праздника!',
+        },
+        contact :
+        {
+            number : '+375 33 666 63 63',
+            phone:
+            {
+                img:'images/phone.png',
+                alt: 'phone',
+            },
+            social:
+            [
+                {
+                    link: '#',
+                    img : {src: 'images/vk.png', alt : 'vk'},
+                },
+                {
+                    link: '#',
+                    img : {src: 'images/inst.png', alt : 'inst'},
+                },
+                {
+                    link: '#',
+                    img : {src: 'images/youtube.png', alt : 'youtube'},
+                },
+
+            ],
         },
     } %}
 {% endif %}
 <header class="header">
-    <div class="header__container">
-        <div class="header__logo">
-            <div class="header__logo-picture">
-                <img src="{{ header.logo.src }}" alt="{{ header.logo.alt }}" class="header__logo-img">
+    <div class="header__bar">
+        <div class="header__container">
+            <div class="header__logo">
+                <div class="header__logo-picture">
+                    <img src="{{ header.logo.src }}" alt="{{ header.logo.alt }}" class="header__logo-img">
+                </div>
+                <p class="header__logo-text">{{ header.logo.text }}</p>
             </div>
-            <p class="header__logo-text">{{ header.logo.text }}</p>
+            <div class="header__contact">
+                <a href="{{ header.contact.number }}" class="header__phone">
+                    <div class="header__phone-picture">
+                        <img src="{{ header.contact.phone.img }}" alt="{{ header.contact.phone.alt }}"
+                             class="header__phone-icon">
+                    </div>
+                    {{ header.contact.number }}
+                </a>
+            </div>
+            <ul class="header__social">
+                {% for item in header.contact.social %}
+                    <li class="header__social-item">
+                        <a href="{{ item.link }}" class="header__social-link">
+                            <div class="header__social-picture">
+                                <img src="{{ item.img.src }}" alt="{{ item.img.alt }}" class="header__social-icon">
+                            </div>
+                        </a>
+                    </li>
+                {% endfor %}
+            </ul>
         </div>
-
     </div>
 </header>
