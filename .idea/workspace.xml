@@ -71,14 +71,15 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="Z:\progects\mafia_patron\src\app\images\svg_sprite_inline" />
+      <recent name="D:\projects\mafia_patron\src\app\styles\base" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\projects\mafia_patron\src\app\styles\mixins" />
       <recent name="D:\projects\mafia_patron\src\app\styles\variables" />
       <recent name="D:\projects\mafia_patron\src\app\images" />
       <recent name="D:\projects\mafia_patron\src\app\styles\layout" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\projects\mafia_patron\src\app\styles\base" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -90,6 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600074143448</updated>
       <workItem from="1600074144518" duration="13881000" />
+      <workItem from="1600244904265" duration="6956000" />
     </task>
     <servers />
   </component>
@@ -106,6 +108,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="739" y="273" key="FileChooserDialogImpl" timestamp="1600158810202">

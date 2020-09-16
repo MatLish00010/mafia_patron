@@ -44,9 +44,8 @@
             </div>
             <div class="header__contact">
                 <a href="{{ header.contact.number }}" class="header__phone">
-                    <div class="header__phone-picture">
-                        <img src="{{ header.contact.phone.img }}" alt="{{ header.contact.phone.alt }}"
-                             class="header__phone-icon">
+                    <div class="header__phone-icon">
+                        {% include '../components/svg_inline.twig' with  {name:'ic-phone'} %}
                     </div>
                     {{ header.contact.number }}
                 </a>
