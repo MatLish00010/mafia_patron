@@ -1,14 +1,8 @@
 .header {
-  background-color: black;
-  position: relative;
+  position: fixed;
+  z-index: 20;
   top: 0;
   width: 100%;
-
-  &__bar {
-    /*width: 100%;
-    position: fixed;
-    z-index: 25;*/
-  }
 
   &__container {
     @extend .l-container;
@@ -49,7 +43,6 @@
     padding: 0.5em 0.5em 0.5em 2rem;
 
     &-icon {
-      font-size: 2rem;
       color: #ebebeb;
       display: flex;
       justify-content: center;
@@ -79,6 +72,15 @@
 
     &-link {
       padding: 0.5rem;
+      color: $c-white;
+      transition: 0.3s background-color;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+      &:hover {
+        background-color: $c-hover-icon;
+      }
     }
 
     &-picture {

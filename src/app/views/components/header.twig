@@ -18,15 +18,15 @@
             [
                 {
                     link: '#',
-                    img : {src: 'images/vk.png', alt : 'vk'},
+                    icon: 'ic-vk',
                 },
                 {
                     link: '#',
-                    img : {src: 'images/inst.png', alt : 'inst'},
+                    icon: 'ic-instagram',
                 },
                 {
                     link: '#',
-                    img : {src: 'images/youtube.png', alt : 'youtube'},
+                    icon: 'ic-facebook',
                 },
 
             ],
@@ -54,9 +54,7 @@
                 {% for item in header.contact.social %}
                     <li class="header__social-item">
                         <a href="{{ item.link }}" class="header__social-link">
-                            <div class="header__social-picture">
-                                <img src="{{ item.img.src }}" alt="{{ item.img.alt }}" class="header__social-icon">
-                            </div>
+                           {% include '../components/svg_inline.twig' with {name: item.icon } %}
                         </a>
                     </li>
                 {% endfor %}

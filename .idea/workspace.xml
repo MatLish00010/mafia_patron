@@ -20,27 +20,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00a2cedc-0542-4be3-bcdb-04d6818f49ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app/images/arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/images/inst.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/images/phone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/images/vk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/images/youtube.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/styles/mixins/breakpoints.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/styles/variables/breakpoints.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/styles/variables/colors.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/images/svg_sprite_inline/ic-facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/images/svg_sprite_inline/ic-instagram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/styles/sections/hero.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/harvey.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/inst.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/phone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/svg_sprite_inline/sprite_inline.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/vk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/youtube.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/styles/style.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/.tmp/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/images/harvey.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/images/harvey.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/.tmp/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/images/svg_sprite_inline/sprite_inline.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/images/svg_sprite_inline/sprite_inline.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/.tmp/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/styles/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/styles/base/common.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/styles/base/common.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/styles/components/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/styles/components/header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/styles/layout/containers.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/styles/layout/containers.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/styles/sprites/png-sprite.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/styles/sprites/png-sprite.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/styles/sprites/svg-sprite-inline.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/styles/sprites/svg-sprite-inline.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/styles/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/styles/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/styles/variables/colors.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/styles/variables/colors.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/views/components/header.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/views/components/header.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/views/sections/hero.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/views/sections/hero.twig" afterDir="false" />
     </list>
@@ -71,15 +75,16 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="Z:\progects\mafia_patron\src\app\images\svg_sprite_inline" />
-      <recent name="D:\projects\mafia_patron\src\app\styles\base" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\projects\mafia_patron\src\app\styles\mixins" />
       <recent name="D:\projects\mafia_patron\src\app\styles\variables" />
       <recent name="D:\projects\mafia_patron\src\app\images" />
       <recent name="D:\projects\mafia_patron\src\app\styles\layout" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\projects\mafia_patron\src\app\images\svg_sprite_inline" />
+      <recent name="Z:\progects\mafia_patron\src\app\images\svg_sprite_inline" />
+      <recent name="D:\projects\mafia_patron\src\app\styles\base" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
